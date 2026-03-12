@@ -3,6 +3,7 @@
 This is the official repository for the Image Processing on FPGA project under IvLabs, VNIT Nagpur. The aim of this project is to design and implement a custom, hardware-accelerated photo viewer and image processor that runs on an FPGA development board.
 
 Team Members :
+
 Ashish Singh
 
 Aditya Gaddam
