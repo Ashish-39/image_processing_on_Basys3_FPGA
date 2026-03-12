@@ -1,11 +1,18 @@
 # Image Processing On FPGA 📸
 
-This is the official repository for the Image Processing on FPGA project created at IvLabs, VNIT Nagpur. The aim of this project is to develop a custom, hardware-accelerated photo viewer and image processor that runs on an FPGA development board.
+This is the official repository for the Image Processing on FPGA project under IvLabs, VNIT Nagpur. The aim of this project is to design and implement a custom, hardware-accelerated photo viewer and image processor that runs on an FPGA development board.
+
+Team Members :
+Ashish Singh
+
+Aditya Gaddam
+
+Harshita Umashankar
 
 
 ## Project Overview
 
-The system takes a digital image from a computer, saves it in the FPGA’s internal memory, applies various filters, and sends the outcome to a VGA monitor.
+The system takes a digital image from a computer, saves it in the FPGA’s internal memory, applies one or more point or convolution based filters, and sends the transformed image to a VGA monitor.
 
 Key Functionality
 
